@@ -107,6 +107,7 @@ main #intro{
 /*Estilização dos cartões dos cursos*/
 
 #area-cursos{
+    background-color: #6A5ACD;
     margin-top: 60px;
     padding: 30px;
     display: flex;
